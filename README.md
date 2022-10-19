@@ -1,3 +1,3 @@
 ### Sup 🤘
 <img>
-![]<img src="stickbugparrot.gif" width="400" height="790">
+<img src="stickbugparrot.gif" width="600" height="400">
