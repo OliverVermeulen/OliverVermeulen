@@ -1,2 +1,2 @@
 ### Sup 🤘
-![](stickbugparrot.gif)
+![](stickbugparrot.gif width="500px")
