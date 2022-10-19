@@ -1,2 +1,2 @@
-![](https://github.com/OliverVermeulen/stickbugparrot.gif)
+![](stickbugparrot.gif)
 Sup 🤘
