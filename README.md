@@ -1,3 +1,3 @@
 ### Sup 🤘
 <img>
-<img src="stickbugparrot.gif" width="600" height="400" align="center">
+<img src="stickbugparrot.gif" width="500" height="300">
