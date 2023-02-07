@@ -4,12 +4,6 @@
 <div align="center">
   <div style="display: flex;">
 <img src="aws-certified-cloud-practitioner.png" width="200" height="200">
-<img src="stickbugparrot.gif" width="500" height="300">
+<img src="stickbugparrot.gif" width="400" height="200">
   </div>
 </div>
-<p align="center">
-<img src="aws-certified-cloud-practitioner.png" width="200" height="200">
-</p>
-<p align="center">
-<img src="stickbugparrot.gif" width="500" height="300">
-</p>
